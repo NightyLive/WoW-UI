@@ -1,0 +1,13 @@
+Binds :
+
+Les binds sont configuré dans le menu de WoW "Raccourcis".
+Attention le 11 et 12 sont spécifiques au clavier Suisse, choisissez les deux touches à droite du "0" ;)
+
+-------------------------------------------------------------------------
+
+Macros :
+
+Malheureusement il est nécessaire de les créer une par une et copier-coller le code.
+Pour ne pas voir le nom des macros il faut aller dans la configuration d'ElvUI, choisir "Barres d'actions" puis "Options générales" et décocher "Texte sur Macro".
+Il est aussi possible de ne pas donner de nom aux macro ;)
+Vous trouverez l'ensemble des macros dans "macros mouseover.txt"
