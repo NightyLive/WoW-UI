@@ -1,5 +1,5 @@
 - Weakaura preview screenshots
-- ElvUI profile
+- OK ElvUI profile
 - ElvUI preview screenshots in/out of combat, alone, in raid, in group
 - Bigwigs profile
 - Bigwigs preview screenshots various boss
