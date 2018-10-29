@@ -1,0 +1,12 @@
+- ElvUI : https://www.tukui.org/download.php?ui=elvui
+- Weakaura : https://www.curseforge.com/wow/addons/weakauras-2
+- BigWigs : https://wow.curseforge.com/projects/big-wigs
+- Details : https://wow.curseforge.com/projects/details
+- MikScrollingBattleText : https://wow.curseforge.com/projects/mik-scrolling-battle-text
+- AddonSkins : https://www.tukui.org/addons.php?id=3
+- MoveAnything : https://wow.curseforge.com/projects/move-anything
+
+Optionnal :
+- Titan Panel : https://wow.curseforge.com/projects/titan-panel
+- Adibags : https://www.curseforge.com/wow/addons/adibags
+- LittleWigs : https://wow.curseforge.com/projects/little-wigs
