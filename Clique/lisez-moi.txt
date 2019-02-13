@@ -1,0 +1,11 @@
+Dans Clique cliquez sur "Bind other" puis Run custom macro
+Assignez les touches de votre choix (le nom du fichier est le bind que j'utilise)
+Ensuite collez dans la zone de texte le contenu du fichier
+
+Le Shift-LeftButton :
+- Sur allié vivant : Récupération
+- Sur allié mort : Rez combat
+
+Le Shift-RightButton :
+- Sur allié vivant : Dispell
+- Sur allié mort : Rez combat

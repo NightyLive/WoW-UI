@@ -7,7 +7,7 @@
 - MoveAnything : https://wow.curseforge.com/projects/move-anything
 
 Optionnal :
-- Clique :
+- Clique : https://wow.curseforge.com/projects/clique
 - Titan Panel : https://wow.curseforge.com/projects/titan-panel
 - Adibags : https://www.curseforge.com/wow/addons/adibags
 - LittleWigs : https://wow.curseforge.com/projects/little-wigs

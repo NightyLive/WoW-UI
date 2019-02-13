@@ -1,0 +1,26 @@
+#showtooltip Soins naturels
+/cast [@mouseover,help,nodead][help,nodead][@player]Soins naturels;
+
+#showtooltip Ecorcefer
+/cast [@mouseover,help,nodead][help,nodead][@player]Ecorcefer;
+
+#showtooltip Protection cénarienne
+/cast [@mouseover,help,nodead][help,nodead][@player]Protection cénarienne;
+
+#showtooltip Croissance sauvage
+/cast [@mouseover,help,nodead][help,nodead][@player]Croissance sauvage;
+
+#showtooltip Prompte guérison
+/cast [@mouseover,help,nodead][help,nodead][@player]Prompte guérison;
+
+#showtooltip Rétablissement
+/cast [@mouseover,help,nodead][help,nodead][@player]Rétablissement;
+
+#showtooltip Récupération
+/cast [@mouseover,help,nodead][help,nodead][@player]Récupération;
+
+#showtooltip Innervation
+/cast [@player]Innervation;
+
+#showtooltip Fleur de vie
+/cast [@mouseover,help,nodead][help,nodead][@player]Fleur de vie;

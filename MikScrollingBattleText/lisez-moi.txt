@@ -1,0 +1,2 @@
+N'oubliez pas de sauvegarde votre fichier personnel si vous voulez le conserver
+Copiez/remplacez le fichier dans : "World of Warcraft\WTF\Account\VOTRECOMPTE\SavedVariables"
